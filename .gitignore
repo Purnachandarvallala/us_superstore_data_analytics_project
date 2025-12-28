@@ -1,0 +1,14 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Data files (optional if large)
+data/*.csv
+data/*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
